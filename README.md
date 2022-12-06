@@ -1,15 +1,4 @@
-# MY COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS
-
-### Requirements
-1. Python 3.6+
-
-### How to Run?
-1. Install Python 3.6+
-2. Clone this repository
-3. In command line type:
-```
-python ex[exercise-number].py
-```
+# COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS
 
 ### Experiments List
 - [Ex.1](ex1.py) - Lexical Analyzer
